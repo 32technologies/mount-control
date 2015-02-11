@@ -1,0 +1,23 @@
+{
+  "name": "mount-control",
+  "version": "1.0.0",
+  "description": "Controls local mount process",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/32technologies/mount-control.git"
+  },
+  "keywords": [
+    "mount",
+    "child",
+    "process"
+  ],
+  "author": "Eric Zimmerman <eric@32technologies.com> (http://32technologies.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/32technologies/mount-control/issues"
+  }
+}
